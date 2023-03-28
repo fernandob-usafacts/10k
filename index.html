@@ -111,13 +111,35 @@
             .attr("transform", "rotate(-45)")
             .text(d => d.label);
 
+        let cleanName = (name) => {
+          if (name.startsWith("number of")) {
+            return name.slice(10);
+          } else if (name.startsWith("numbers of")) {
+            return name.slice(11);
+          } else if (name.startsWith("increases in")) {
+            return name.slice(13);
+          } else if (name.startsWith("increase in")) {
+            return name.slice(12);
+          } else if (name.startsWith("decrease in")) {
+            return name.slice(12);
+          } else if (name.startsWith("reducing")) {
+            return name.slice(9);
+          } else if (name.startsWith("increased")) {
+            return name.slice(9);
+          } else if (name.startsWith("decreased")) {
+            return name.slice(9);
+          } else {
+            return name;
+          }
+        } 
+
         const textIndicator = gSegment.selectAll(".indicator")
           .data(d => indicators.filter(ind => ind.segment === d.name))
           .join("text")
             .attr("class", "indicator")
             .attr("font-size", 12)
             .attr("y", (d,i) => (i + 2) * lineHeight)
-            .text(d => d.indicator);
+            .text(d => cleanName(d.indicator));
 
         const changes = gSegment.selectAll(".change")
           .data(d => indicators.filter(ind => ind.segment === d.name))
