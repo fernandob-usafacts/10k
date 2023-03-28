@@ -76,7 +76,7 @@
 
         const svg = d3.select("#viz")
           .attr("width", segments.length * colWidth)
-          .attr("height", (indicators.length + 2) * lineHeight);
+          .attr("height", (d3.max(segments, d => d.number) + 5) * lineHeight);
 
         const gSegment = svg.selectAll(".segment")
           .data(segments)
