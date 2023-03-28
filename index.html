@@ -31,7 +31,7 @@
         d3.csv("10k_indicators.csv")
       ]).then(function(data){
 
-        const lineHeight = 16;
+        const lineHeight = 32;
 
         let indicators = data[0];
         indicators.forEach(d => {
@@ -131,14 +131,28 @@
               "color": d.good_trend === 'negative' ? (d[col] < 0 ? positiveColor : negativeColor) : (d[col] > 0 ? positiveColor : negativeColor)
             }})
           )
-          .join("rect")
-            .attr("width", lineHeight)
-            .attr("height", lineHeight)
-            .attr("x", (d,i) => i * lineHeight)
-            .attr("y", 0)
-            .attr("fill", d => d.color)
-            .style("stroke", "white")
-            .style("stroke-width", 0.5)
+        
+        changes.join("rect")
+          .attr("width", lineHeight)
+          .attr("height", lineHeight)
+          .attr("x", (d,i) => i * lineHeight)
+          .attr("y", 0)
+          .attr("fill", d => d.color)
+          .style("stroke", "white")
+          .style("stroke-width", 0.5);
+
+        changes.join("text")
+          // .attr("width", lineHeight)
+          // .attr("height", lineHeight)
+          .attr("x", (d,i) => (i + 1/2) * lineHeight)
+          .attr("y", lineHeight - 12)
+          .attr("font-size", 12)
+          .attr("fill", "white")
+          .attr("text-anchor", "middle")
+          // .attr("fill", d => d.color)
+          // .style("stroke", "white")
+          // .style("stroke-width", 0.5)
+          .text(d => d.value.toFixed(0) + '%')
         
       })
     </script>
