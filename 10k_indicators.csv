@@ -1,0 +1,101 @@
+﻿segment,category,subcategory,good_trend,trend,indicator,2019,2018,2014,2009,Change 2019 vs 2018,Change 2019 vs 2014,Change 2019 vs 2009
+Justic and Domestic Tranquility,crime and disaster,crime,negative,made meaningful progress,number of overall crimes reported (property + violent),8129,8429,9362,10663,-3.559141061,-13.17026276,-23.76441902
+Justic and Domestic Tranquility,crime and disaster,crime,negative,made meaningful progress,number of overall arrests,8385,8571,9000,10988,-2.170108505,-6.833333333,-23.68947943
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,made meaningful progress,persons in federal and state prisons,1431,1465,1562,1616,-2.320819113,-8.386683739,-11.4480198
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,made meaningful progress,youth in jails,2900,3400,4200,7218,-14.70588235,-30.95238095,-59.82266556
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,made meaningful progress,youth in state prisons,626,699,1035,2743,-10.4434907,-39.51690821,-77.17827197
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,made meaningful progress,overall number of those sentenced to prison for property,194,209,261,268,-7.177033493,-25.67049808,-27.6119403
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,made meaningful progress,overall number of those sentenced to prison for drug crimes,239,253,302,362,-5.533596838,-20.86092715,-33.97790055
+Justic and Domestic Tranquility,crime and disaster,incarceration,negative,regressed notably,people sentenced to prison for public order and other offenses,204,217,221,163,-5.99078341,-7.692307692,25.15337423
+Justic and Domestic Tranquility,crime and disaster,fire (non-natural disaster),negative,made meaningful progress,home structure fires per housing unit,243,262,275,279,-7.251908397,-11.63636364,-12.90322581
+Justic and Domestic Tranquility,crime and disaster,fire (non-natural disaster),negative,regressed notably,other structure fires,142,136,127,118,4.411764706,11.81102362,20.33898305
+Justic and Domestic Tranquility,crime and disaster,fire (non-natural disaster),negative,made meaningful progress,highway vehicle fires per mile driven,58,56,56,65,3.571428571,3.571428571,-10.76923077
+Justic and Domestic Tranquility,crime and disaster,fire (non-natural disaster),negative,regressed notably,civilian deaths from all types of fire incidents,3704,3655,3275,3010,1.340629275,13.09923664,23.05647841
+Justic and Domestic Tranquility,crime and disaster,disasters,negative,regressed notably,the numbers of billion-dollar disasters,14,14,9,8,0,55.55555556,75
+Justic and Domestic Tranquility,crime and disaster,disasters,negative,regressed notably,the estimated costs of billion-dollar disasters,45,91,17,12,-50.54945055,164.7058824,275
+Justic and Domestic Tranquility,crime and disaster,disasters,negative,regressed notably,the numbers of deaths from disasters,44,247,53,26,-82.18623482,-16.98113208,69.23076923
+Justic and Domestic Tranquility,crime and disaster,disasters,negative,made meaningful progress,acres burned in wildland fires,4664,8767,3596,5922,-46.80050188,29.6996663,-21.24282337
+Justic and Domestic Tranquility,crime and disaster,disasters,negative,regressed notably,acres burned per wildland fire,92,151,57,75,-39.07284768,61.40350877,22.66666667
+Justic and Domestic Tranquility,safeguarding consumers and employees,consumer complaints and product safety injuries,negative,regressed notably,consumer fraud complaints,1863,1523,1526,709,22.32435982,22.08387942,162.764457
+Justic and Domestic Tranquility,safeguarding consumers and employees,consumer complaints and product safety injuries,negative,made meaningful progress,median losses per fraud complaint,320,375,499,531,-14.66666667,-35.87174349,-39.73634652
+Justic and Domestic Tranquility,safeguarding consumers and employees,consumer complaints and product safety injuries,negative,regressed notably,identity theft complaints,651,444,333,278,46.62162162,95.4954955,134.1726619
+Justic and Domestic Tranquility,safeguarding consumers and employees,consumer complaints and product safety injuries,negative,regressed notably,other consumer complaints,957,1203,762,442,-20.44887781,25.59055118,116.5158371
+Justic and Domestic Tranquility,safeguarding consumers and employees,transportation safety,negative,regressed notably,highway crashes,6756,6735,6064,5505,0.311804009,11.4116095,22.72479564
+Justic and Domestic Tranquility,safeguarding consumers and employees,transportation safety,negative,made meaningful progress,highway fatalities per crash,534,547,540,615,-2.376599634,-1.111111111,-13.17073171
+Justic and Domestic Tranquility,safeguarding consumers and employees,safeguarding employees,negative,made meaningful progress,workplace violations,50874,49641,57230,68981,2.483833928,-11.10606325,-26.24925704
+Justic and Domestic Tranquility,safeguarding consumers and employees,safeguarding employees,negative,made meaningful progress,non-fatal workplace injuries,3497,3544,3676,4141,-1.326185102,-4.869423286,-15.55179908
+Justic and Domestic Tranquility,safeguarding consumers and employees,safeguarding employees,negative,regressed notably,fatal workplace injuries,5333,5250,4821,4551,1.580952381,10.62020328,17.1830367
+Justic and Domestic Tranquility,safeguarding consumers and employees,safeguarding employees,positive,made meaningful progress,backwages recovered,322491,304914,240832,172615,5.764576241,33.90703893,86.82675318
+Justic and Domestic Tranquility,child safety and miscellaneous social services,child family situation,positive,made meaningful progress,children adopted from foster care,66208,63091,50668,57187,4.940482795,30.67024552,15.77456415
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,victimization rates of children ages birth to one year old ,25.7,26.7,24.4,20.6,-3.745318352,5.327868852,24.75728155
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,child fatalities as a result of maltreatment brith-1,22.9,22.8,18,18.4,0.438596491,27.22222222,24.45652174
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,child fatalities as a result of maltreatment 1-3,5.6,5.2,5,5.3,7.692307692,12,5.660377358
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,child fatalities as a result of maltreatment 4-7,1.6,1.3,1.2,1,23.07692308,33.33333333,60
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,child fatalities as a result of maltreatment 8-11,0.7,0.6,0.5,0.4,16.66666667,40,75
+Justic and Domestic Tranquility,child safety and miscellaneous social services,crimes against children,negative,regressed notably,child fatalities as a result of maltreatment 12-17,0.6,0.5,0.2,0.4,20,200,50
+Justic and Domestic Tranquility,child safety and miscellaneous social services,child welfare,negative,made meaningful progress,number of children in poverty,10446,11869,15540,15451,-11.9892156,-32.77992278,-32.39272539
+Justic and Domestic Tranquility,child safety and miscellaneous social services,child welfare,negative,regressed notably,percentages of children receiving free and reduced price lunch ,74,74,71,62,0,4.225352113,19.35483871
+Justic and Domestic Tranquility,child safety and miscellaneous social services,child welfare,negative,regressed notably,homeless children enrolled in school. ,1388,1508,1298,915,-7.957559682,6.933744222,51.69398907
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,bringing home active-duty military personnel who were stationed abroad,167,165,159,263,1.212121212,5.031446541,-36.50190114
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,number of active-duty military deaths from hostile/terrorist,21,14,38,346,50,-44.73684211,-93.93063584
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,number of active-duty military deaths from accidents,279,306,305,467,-8.823529412,-8.524590164,-40.25695931
+Common defense,national defense and support for veterans,national defense,negative,regressed notably,number of self-inflicted active-duty military deaths,366,363,304,302,0.826446281,20.39473684,21.19205298
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,number of active-duty military deaths from illness,154,174,195,277,-11.49425287,-21.02564103,-44.40433213
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,number of active-duty military deaths from homicide,32,31,27,77,3.225806452,18.51851852,-58.44155844
+Common defense,national defense and support for veterans,national defense,negative,made meaningful progress,number of active-duty military deaths from undetermined or pending,41,30,11,46,36.66666667,272.7272727,-10.86956522
+Common defense,national defense and support for veterans,national defense,negative,regressed notably,number of US civilian deaths overseas from “other” causes,22,64,27,19,-65.625,-18.51851852,15.78947368
+Common defense,national defense and support for veterans,support for veterans,negative,regressed notably,number of VA patients,6160,6116,5829,5138,0.71942446,5.678504032,19.89100817
+Common defense,Immigration and border security,authorized entry to the US,positive,made meaningful progress,number of naturalizations,844,762,653,744,10.76115486,29.24961715,13.44086022
+Common defense,Immigration and border security,authorized entry to the US,positive,made meaningful progress,number of visas granted,8742,9028,9932,5804,-3.16792202,-11.98147402,50.62026189
+Common defense,Immigration and border security,unauthorized entry to the US,negative,regressed notably,number of border apprehensions,860,404,487,556,112.8712871,76.59137577,54.67625899
+Common defense,Immigration and border security,unauthorized entry to the US,negative,made meaningful progress,number of unauthorized people removed or returned,531,489,569,962,8.588957055,-6.678383128,-44.8024948
+Common defense,Immigration and border security,unauthorized entry to the US,negative,regressed notably,number of removal of unauthorized persons with a prior criminal conviction,156,148,169,128,5.405405405,-7.692307692,21.875
+Common defense,Immigration and border security,other border security,negative,regressed notably,number of intellectual property seizures,28,34,23,15,-17.64705882,21.73913043,86.66666667
+Common defense,Immigration and border security,other border security,negative,regressed notably,number of airport firearm discoveries,4432,4239,2212,976,4.552960604,100.3616637,354.0983607
+Common defense,foreign affairs and foreign aid,foreign affairs and foreign aid,positive,made meaningful progress,number of passports in circulation,146775,137589,121512,97597,6.676405817,20.79053921,50.38884392
+General Welfare,economy and infrastructure,"investment, gdp, and trade",positive,made meaningful progress,growing our economy as measured by increases in: GDP ,21373,20899,18954,17253,2.268051103,12.76247758,23.87990494
+General Welfare,economy and infrastructure,"investment, gdp, and trade",positive,made meaningful progress,increases in the S&P 500 index ,3231,2552,2224,1329,26.60658307,45.27877698,143.1151242
+General Welfare,economy and infrastructure,"investment, gdp, and trade",positive,made meaningful progress,increases in private fixed investment ,3753,3644,3197,2479,2.991218441,17.39130435,51.3916902
+General Welfare,economy and infrastructure,"investment, gdp, and trade",negative,regressed notably,increase in net trade deficit,472126,438236,369987,379729,7.733276134,27.60610508,24.33235281
+General Welfare,economy and infrastructure,businesses,positive,made meaningful progress,"increases in numbers of businesses, including those less than one year old ",771,734,653,609,5.040871935,18.0704441,26.60098522
+General Welfare,economy and infrastructure,businesses,negative,made meaningful progress,decreases in bankruptcy filings ,23,22,28,59,4.545454545,-17.85714286,-61.01694915
+General Welfare,economy and infrastructure,businesses,negative,made meaningful progress,decreases in bank failures ,4,0,18,140,#DIV/0!,-77.77777778,-97.14285714
+General Welfare,economy and infrastructure,housing,positive,made meaningful progress,new home sales ,683,617,437,375,10.69692058,56.29290618,82.13333333
+General Welfare,economy and infrastructure,housing,negative,regressed notably,increase in median housing prices – new homes,322,332,312,259,-3.012048193,3.205128205,24.32432432
+General Welfare,economy and infrastructure,housing,negative,regressed notably,increase in median housing prices – rent ,1097,1077,1009,1003,1.857010214,8.721506442,9.371884347
+General Welfare,economy and infrastructure,jobs and wages,negative,regressed notably,increase in rates of senior employment ,0.19,0.19,0.17,0.15,0,11.76470588,26.66666667
+General Welfare,economy and infrastructure,jobs and wages,negative,made meaningful progress,decreases in workers at or below minimum wage ,19,21,39,49,-9.523809524,-51.28205128,-61.2244898
+General Welfare,economy and infrastructure,jobs and wages,positive,regressed notably,decrease in federal minimum wage per hour adjusted for inflation,7.25,7.38,7.83,8.64,-1.761517615,-7.407407407,-16.08796296
+General Welfare,economy and infrastructure,transportation infrastructure,negative,regressed notably,increase in hours of commuter highway delays ,54,54,49,43,0,10.20408163,25.58139535
+General Welfare,economy and infrastructure,transportation infrastructure,negative,regressed notably,increase in gallons of fuel wasted ,7,6.9,6.5,6,1.449275362,7.692307692,16.66666667
+General Welfare,economy and infrastructure,transportation infrastructure,negative,regressed notably,increase in hours of delay on passenger trains ,97,96,100,79,1.041666667,-3,22.78481013
+General Welfare,economy and infrastructure,transportation infrastructure,negative,regressed notably,increase in age of railcar and trainset fleet ,32.7,31.3,29.6,25.5,4.47284345,10.47297297,28.23529412
+General Welfare,health,longetivity and mortality,negative,regressed notably,increase in deaths from accidents,173,167,136,118,3.592814371,27.20588235,46.61016949
+General Welfare,health,longetivity and mortality,negative,regressed notably,increase in deaths from heroin poisoning,14,15,11,3,-6.666666667,27.27272727,366.6666667
+General Welfare,health,longetivity and mortality,negative,regressed notably,increase in deaths from other opioids,12,13,12,10,-7.692307692,0,20
+General Welfare,health,longetivity and mortality,negative,regressed notably,increase in deaths from other synthetic narcotics ,36,31,6,3,16.12903226,500,1100
+General Welfare,health,healtcare affordability,negative,regressed notably,increase in spending on healthcare,3175,3022,2527,2106,5.06287227,25.64305501,50.75973409
+General Welfare,health,healtcare affordability,negative,regressed notably,increase in out-of-pocket costs ,404,387,340,297,4.392764858,18.82352941,36.02693603
+General Welfare,health,healtcare affordability,negative,made meaningful progress,reducing the percentage of Americans who are uninsured ,9,9,12,15,0,-25,-40
+Blessings of Liberty,education,higher education,negative,regressed notably,cost of higher education ,24623,24265,22673,20312,1.475376056,8.600538085,21.22390705
+Blessings of Liberty,education,higher education,positive,made meaningful progress,number of associate’s degrees granted ,1037,1012,1005,787,2.470355731,3.184079602,31.76620076
+Blessings of Liberty,wealth and savings,wealth creation,positive,made meaningful progress,total household financial assets,93387,82406,71347,49957,13.32548601,30.89127784,86.9347639
+Blessings of Liberty,wealth and savings,wealth creation,positive,made meaningful progress,average financial assets,726298,653166,625254,508034,11.19654115,16.16047238,42.96247889
+Blessings of Liberty,wealth and savings,wealth creation,positive,made meaningful progress,average real estate assets,260917,251938,212773,215685,3.563972088,22.62693105,20.97132392
+Blessings of Liberty,wealth and savings,wealth creation,negative,made meaningful progress,lower mortgage debt ,81515,80878,82265,106183,0.787606024,-0.911687838,-23.23159074
+Blessings of Liberty,wealth and savings,retirement,positive,made meaningful progress,numbers of participants in 401(K) type private pension plans ,72202,70335,62651,60285,2.654439468,15.24476864,19.76776976
+Blessings of Liberty,wealth and savings,retirement,positive,made meaningful progress,private retirement plan assets per active participant,109138,97098,99824,72886,12.39984346,9.330421542,49.73794693
+Blessings of Liberty,wealth and savings,retirement,positive,made meaningful progress,401(k) type private retirement plan assets per active participant,86445,75694,75842,54045,14.20323936,13.98038026,59.95004163
+Blessings of Liberty,wealth and savings,government obligations,negative,regressed notably,total government debt as a percentage of GDP ,89,87,85,68,2.298850575,4.705882353,30.88235294
+Blessings of Liberty,wealth and savings,government obligations,negative,regressed notably,total government debt per capita,57183,54706,47301,32125,4.527839725,20.8917359,78.00155642
+Blessings of Liberty,sustainability and self-sufficiency,energy and water,negative,made meaningful progress,reduced net energy consumption ,0,7,11,21,-100,-100,-100
+Blessings of Liberty,sustainability and self-sufficiency,energy and water,positive,made meaningful progress,increased energy consumption from renewable sources ,20,20,18,16,0,11.11111111,25
+Blessings of Liberty,sustainability and self-sufficiency,environmental quality and violations,negative,made meaningful progress,number of days reaching unhealthy level for air quality,479,799,598,786,-40.05006258,-19.89966555,-39.05852417
+Blessings of Liberty,sustainability and self-sufficiency,environmental quality and violations,negative,made meaningful progress,overall water quality as measured by quantity of suspended solids ,220.6,210.8,204.5,263.5,4.648956357,7.872860636,-16.28083491
+Blessings of Liberty,sustainability and self-sufficiency,environmental quality and violations,negative,regressed notably,levels of nitrate plus nitrite found in water ,1.4,1.6,1.3,1.2,-12.5,7.692307692,16.66666667
+Blessings of Liberty,sustainability and self-sufficiency,agriculture,negative,regressed notably,crop failures ,10,11,10,8,-9.090909091,0,25
+Blessings of Liberty,sustainability and self-sufficiency,agriculture,positive,made meaningful progress,increased consumption of grains and soy,390,390,376,357,0,3.723404255,9.243697479
+Blessings of Liberty,sustainability and self-sufficiency,agriculture,negative,made meaningful progress,decreased consumption of meat and poultry,39,38,48,47,2.631578947,-18.75,-17.0212766
+Blessings of Liberty,american dream,civil rights,negative,made meaningful progress,civil rights crimes reported for employment discrimination,72675,76418,88778,93277,-4.898060666,-18.13850278,-22.08690245
+Blessings of Liberty,american dream,civil rights,negative,made meaningful progress,civil rights crimes reported for housing discrimination ,7729,7788,8489,10242,-0.757575758,-8.952762398,-24.53622339
+Blessings of Liberty,american dream,civil rights,negative,made meaningful progress,civil rights crimes reported for health discrimination ,1247,899,1956,3357,38.70967742,-36.24744376,-62.85373846
