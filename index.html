@@ -93,6 +93,24 @@
             .attr("y", lineHeight)
             .text(d => d.name);
 
+        gSegment.selectAll(".label")
+          .data(d => changeCols.map(col => {
+            return {
+              "label": col,
+              "yPos":  indicators.filter(ind => ind.segment === d.name).length
+            }
+          }))
+          .join("text")
+            .attr("class", "label")
+            .attr("font-size", 12)
+            .attr("x", (d,i) => 350 + (i + 1/2) * lineHeight)
+            .attr("y", d => (d.yPos + 2) * lineHeight)
+            .attr("text-anchor", "end")
+            .attr("fill", "darkgray")
+            .attr('transform-origin', (d,i) =>`${350 + (i + 1/2) * lineHeight} ${(d.yPos + 2) * lineHeight}`)
+            .attr("transform", "rotate(-45)")
+            .text(d => d.label);
+
         const textIndicator = gSegment.selectAll(".indicator")
           .data(d => indicators.filter(ind => ind.segment === d.name))
           .join("text")
