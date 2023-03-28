@@ -38,7 +38,7 @@
       ]).then(function(data){
 
         const lineHeight = 28;
-        const topGap = 50;
+        const topGap = 100;
 
         let indicators = data[0];
         indicators.forEach(d => {
@@ -97,7 +97,7 @@
             .attr("class", "title")
             .attr("font-size", 30)
             .style("font-weight", 700)
-            .attr("y", lineHeight)
+            .attr("y", lineHeight + topGap - 50)
             .text(d => d.name);
 
         gSegment.selectAll(".label")
@@ -114,7 +114,7 @@
             .attr("y", d => (d.yPos + 2) * lineHeight * 0 + topGap - 10)
             .attr("text-anchor", "end")
             .attr("fill", "darkgray")
-            .attr('transform-origin', (d,i) =>`${375 + (i + 1/2) * lineHeight * 1.5} ${(d.yPos + 2) * lineHeight * 0 + topGap - 10}`)
+            .attr('transform-origin', (d,i) =>`${375 + (i + 1/2) * lineHeight * 1.5} ${(d.yPos + 2) * lineHeight * 0 + topGap - 20}`)
             .attr("transform", "rotate(-45)")
             .text(d => d.label.replace("Change", "").replace("2018", "1-year").replace("2014", "5-year").replace("2009", "10-year").replace("2019 vs", ""));
 
